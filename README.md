@@ -1,10 +1,10 @@
 # Gym-Management-System
 
-Problem Details <br><br>
+**Problem Details** <br><br>
 The objective of this project is to manage gym memberships using the command line. <br><br>
-Features:<br>
+**Features:**<br>
 Admins should be able to perform CRUD (Create, Read, Update & Delete) for members and workout regimens.<br><br>
-Workout Regimen:<br>
+**Workout Regimen:**<br>
 BMI stands for Body Mass Index<br><br>
 BMI < 18.5: Set following as default workout regimen:<br>
 Mon: Chest<br>
@@ -39,11 +39,11 @@ Fri: Triceps<br>
 Sat: Cardio<br>
 Sun: Cardio<br><br><br>
 
- Member Creation:<br><br>
+Member Creation:<br><br>
 Following details should be required to create a member: Full Name, Age, Gender, Mobile Number, Email, BMI, Membership Duration in months (1, 3, 6, or 12).<br>
 Based on BMI a predefined workout regimen should be assigned.<br>
 Profile can be viewed by the superuser by entering the contact number.<br><br>
-Admin should see  following options:<br>
+**Admin should see following options:**<br>
 Create Member<br>
 View Member<br>
 Delete Member<br>
